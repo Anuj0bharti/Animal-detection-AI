@@ -53,7 +53,7 @@ Animal-Detection-AI/
 ## ⚙️ Installation
 
 1. Clone repository
-git clone https://github.com/YOUR-USERNAME/Animal-Detection-AI.git
+git clone https://github.com/Anuj0bharti/Animal-Detection-AI.git
 
 2. Go to folder
 cd Animal-Detection-AI
@@ -99,7 +99,7 @@ http://localhost:8501
 
 ## 👨‍💻 Author
 
-Anuj Bharti and Team
+Anuj Bharti
 
 ---
 
