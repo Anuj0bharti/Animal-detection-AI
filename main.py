@@ -9,7 +9,7 @@ from utils.detector import detect_animals_frame, detect_animals_image
 st.set_page_config(page_title="🐾 Animal Detection", layout="wide")
 
 st.title("🐾 Animal Detection System")
-st.markdown("Developed by **Anuj Bharti and Team**")
+st.markdown("Developed by **Anuj Bharti**")
 
 # -------- SIDEBAR --------
 st.sidebar.header("Options")
